@@ -1,0 +1,10 @@
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="./docinfo.ptx" />
+  <book>
+    <title>Exercises</title>
+    <chapter>
+      <title>Chapter Title</title>
+      <xi:include href="./sec-10-HW6.ptx" />
+    </chapter>
+  </book>
+</pretext>
